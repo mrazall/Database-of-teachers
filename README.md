@@ -1,4 +1,4 @@
-# Database of teachers
+# Database of teachers in c
 
 - add an entry to the database
 - delete a record from the database
